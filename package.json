@@ -1,0 +1,8 @@
+{
+  "name": "com.arkhaminteractive.bezier-curve-editor",
+  "displayName": "Bezier Curve Editor Package",
+  "version": "0.1.0",
+  "unity": "2019.1",
+  "description": "https://assetstore.unity.com/packages/tools/bezier-curve-editor-11278",
+  "type": "tool"
+}
